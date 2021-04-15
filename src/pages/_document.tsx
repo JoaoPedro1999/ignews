@@ -15,11 +15,7 @@ export default class MyDocument extends Document {
             rel="stylesheet"
           />
 
-          <link
-            rel="icon"
-            href="https://www.corebiz.ag/wp-content/uploads/2020/06/cropped-logo-corebiz-favicon-1-192x192.png"
-            sizes="192x192"
-          />
+          <link rel="icon" href="favicon.png" sizes="192x192" />
         </Head>
         <body>
           <Main />
